@@ -13,7 +13,7 @@ $Phonemodel = generateRandomString(5);
 $XUniqueid = generateRandomString(16);
 echo '#################################';
 echo "\r\n";
-echo '# Copyright : @ilyasa48 | SGB-Team #';
+echo '# Copyright : @mra | SGB-Team #';
 echo "\r\n";
 echo '#################################';
 echo "\r\n";
