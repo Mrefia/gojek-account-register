@@ -8,7 +8,7 @@ GO-JEK Account Register With Promo Code Used
       $ pkg upgrade
       $ pkg install php
       $ pkg install git
-      $ git clone https://github.com/ilyasafr/gojek-account-register.git
+      $ git clone https://github.com/Mrefia/gojek-account-register.git
       $ cd gojek-account-register
 
 ## Run
